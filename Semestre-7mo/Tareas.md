@@ -6,15 +6,17 @@
 	- conclusión
 	- bibliográfica
 
-lunes 25 de agosto 2025
+lunes 25 de agosto 2025 - 3
 
 ---
 
 ## Calidad de los Sistemas Informáticos
 
-resumen la importancia de la calidad en el desarrollo de sistema de información, posible para el martes 26 de agosto 2025
+resumen la importancia de la calidad en el desarrollo de sistema de información
 
-investigar para una exposición del tema, 1.4.2 el compromiso total con la calidad, posible para el martes 26 de agosto 2025
+investigar para una exposición del tema, 1.4.2 el compromiso total con la calidad
+
+posible para el martes 26 de agosto 2025
 
 ---
 
@@ -42,3 +44,7 @@ Vision global de la seguridad informatica
 Jueves 21 de Agosto 2025
 
 ---
+
+## Fundamentos de T.I.
+
+Hacer expo de SGAE

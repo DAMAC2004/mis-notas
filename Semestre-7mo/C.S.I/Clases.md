@@ -37,3 +37,59 @@ visita de empres de desarrollo de software, identifica los métodos y/o procesos
 resumen la importancia de la calidad en el desarrollo de sistema de información, posible para el martes 26 de agosto 2025
 
 investigar para una exposición del tema, 1.4.2 el compromiso total con la calidad, posible para el martes 26 de agosto 2025
+
+---
+
+## Clase 2025-08-21
+
+1.1 Definicion de Calidad
+
+Segun la norma ISO 8402 "calidad" se define como el conjunto de carateristiccas de una entidad que le confieren aptitud para satisfacer necesidades establecidas e implicitas. En sistemas de informacion, esto implica que el sistema cumple con requisitos y espectativas
+
+1.1.1 Dimenciones
+
+Se refiere que tan util, confiable y eficiente es un sistema para cumplir las necesidades de los usuarios y de la organizacion, las dimenciones son 2:
+
+Funcionalidad
+Fiabilidad
+Usabilidad
+Mantenibilidad
+Portabilidad
+
+1.1.2 Importancia Estrategica
+
+La clave es la satisfaccion del cliente que incluso la forma en la que se hace esa accion
+
+1.2 Definicion de control de calidad
+
+El control d eclaidad es el conjutno de procesos, tecnicas y actividades desttinadas a verificar que un sistema de informacio umple con los requisitos 
+
+no se trta de solo encontrar errores si no que prevenirlos y asegurar que el sistema funciones
+
+1.2.1 Propositos
+
+- Dectectar y corregir errores
+- prevenir fallos
+- reducir costos
+- Verificar el cumplimiento de estandares y normas de calidad 
+- asegurar la satisfaccion del usuario
+- mantener la confiabilidad y disponnibilidad del sistema
+
+1.2.2 Tecnicas de control de calidad
+- Revisiones y Auditorias
+- Pruebas de software
+- inspecciones walthrougs
+- COnstrol estadisticos
+- revsion codigo
+- Auditoria de seguridad
+- Control de BD
+- Monitoreo de rendimiento
+
+1.2.3 Benficios de control de calidad
+
+- Minimizas errores
+- Ahorra tiempo
+- Reduce costos al corregir fallos lo antes posible
+- Incrementa la confiabilidad del sistema
+
+
