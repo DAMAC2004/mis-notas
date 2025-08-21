@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas.md",
+                "file": "Semestre-7mo/Tareas.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,10 +184,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "98eeb58e13143676",
+  "active": "59d8b4ecf65a3ee2",
   "lastOpenFiles": [
     "Semestre-7mo/S.I/Clases.md",
-    "Tareas.md",
+    "Semestre-7mo/Tareas.md",
     "Semestre-7mo/tareas.md",
     "Semestre-7mo/C.S.I/Clases.md",
     "Semestre-7mo/T.I/Clases.md",
