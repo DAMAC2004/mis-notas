@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "c7e29ab9bdd292ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "425784a9e05816dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d94f11ac8865e897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre-7mo/S.I/Clases.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Clases"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f6108248403cc36",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cdfff444384ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d8b4ecf65a3ee2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4af6514347a1ec36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d3d9183cb27ee401",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "60cfd100d0e9a91f",
+    "type": "split",
+    "children": [
+      {
+        "id": "15727393e843fbcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "500cd1fa6898dcef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semestre-7mo/F.T.I/Clases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Clases"
+            }
+          },
+          {
+            "id": "fd0907cc495eaf7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semestre-7mo/F.T.I/Clases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Clases"
+            }
+          },
+          {
+            "id": "ab7a02048c7dd64a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f198f08264b4d75a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semestre-7mo/F.T.I/Clases.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Clases"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d94f11ac8865e897",
+  "lastOpenFiles": [
+    "Semestre-7mo/C.S.I/Clases.md",
+    "Semestre-7mo/T.I/Clases.md",
+    "Semestre-7mo/A.S/Clases.md",
+    "Semestre-7mo/T.B.D/clases.md",
+    "Semestre-7mo/H.D.W/Apuntes.md",
+    "Semestre-7mo/Empre/clases.md",
+    "Semestre-7mo/S.I/Clases.md",
+    "Semestre-7mo/T.I",
+    "Semestre-7mo/Sin nombre",
+    "Semestre-7mo/S.I/Seguridad_Informatica.pdf",
+    "Semestre-7mo/S.I/Seguridad_Informatica.pdf.opdownload",
+    "Semestre-7mo/F.T.I/Clases.md",
+    "Semestre-7mo/S.I",
+    "Semestre-7mo/C.S.I",
+    "Semestre-7mo/A.S/archivos-de-inicio",
+    "Sin título.canvas",
+    "2025-08-19.md",
+    "Semestre-7mo/F.T.I"
+  ]
+}
