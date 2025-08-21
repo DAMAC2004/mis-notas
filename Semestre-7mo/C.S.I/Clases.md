@@ -93,3 +93,56 @@ no se trta de solo encontrar errores si no que prevenirlos y asegurar que el sis
 - Incrementa la confiabilidad del sistema
 
 
+1.3 Definicio de calidad de sistemas de informacion
+
+La calidad en un sistema de informacion se refiera a que un sistema satisface las necesidades del cliente
+
+Se refiere a la capacidad de un sistema para apoyar en las areas de una empresa
+
+- debe haber talento calificado
+- Flexbilidad de las esctruturas y sistemas
+- Capacidad hardware
+- Respaldo institucional o del cliente
+
+los compoenetes de la calidad en sistemas de informacion
+
+- Fiabilidad
+- Usabilidad
+- Eficiencia
+- Manenibilidad
+- Portabilidad
+- Seguridad
+
+1.3.1 Calidad del dato
+ surge mediante un ciclo
+
+1. Mundo real
+2. adquisicion de datos
+3. Base de datos
+4. producto
+
+COmpoenents fundamentales en S.I.
+
+1.4 Importancia de la calidad
+
+fase 1 
+- precisos
+- completos
+- oportunos
+
+fase 2
+- consistentes
+- validos
+
+fase 3
+- unicos
+- accesibles
+
+"la calidad no es un lujo, es una necesidad estrategica. su impacto se siente de todos los niveles de una organizacion"
+
+- confiabilidad en la informacion
+- eficienci operativa
+- seguridad y proteccion
+
+---
+
