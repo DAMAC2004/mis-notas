@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre-7mo/S.I/Clases.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Clases"
-            }
-          },
-          {
-            "id": "98eeb58e13143676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Semestre-7mo/Tareas.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Tareas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,22 +169,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "59d8b4ecf65a3ee2",
+  "active": "d94f11ac8865e897",
   "lastOpenFiles": [
-    "Semestre-7mo/S.I/Clases.md",
-    "Semestre-7mo/Tareas.md",
-    "Semestre-7mo/tareas.md",
-    "Semestre-7mo/C.S.I/Clases.md",
     "Semestre-7mo/T.I/Clases.md",
-    "Semestre-7mo/A.S/Clases.md",
     "Semestre-7mo/T.B.D/clases.md",
+    "Semestre-7mo/Tareas.md",
+    "Semestre-7mo/S.I/Clases.md",
     "Semestre-7mo/H.D.W/Apuntes.md",
+    "Semestre-7mo/F.T.I/Clases.md",
     "Semestre-7mo/Empre/clases.md",
+    "Semestre-7mo/C.S.I/Clases.md",
+    "Semestre-7mo/A.S/Clases.md",
+    "Semestre-7mo/A.S/archivos-de-inicio/Administración de servidores.pdf",
+    "Semestre-7mo/tareas.md",
     "Semestre-7mo/T.I",
     "Semestre-7mo/Sin nombre",
     "Semestre-7mo/S.I/Seguridad_Informatica.pdf",
     "Semestre-7mo/S.I/Seguridad_Informatica.pdf.opdownload",
-    "Semestre-7mo/F.T.I/Clases.md",
     "Semestre-7mo/S.I",
     "Semestre-7mo/C.S.I",
     "Semestre-7mo/A.S/archivos-de-inicio",

@@ -30,10 +30,10 @@ formato apa
 
 ## Clase 2025-08-19
 
-investigar para una exposición del tema, 1.4.2 el compromiso total con la calidad, posible para el martes 26 de agosto 2025
-
 un glosario de terminología relacionada con la calidad en los sistemas de información para el siguiente jueves 21 de agosto 2025
 
 visita de empres de desarrollo de software, identifica los métodos y/o procesos de calidad implementados en su sistemas de información
 
-resumen la importancia de la calidad en el desarrollo de sistema de información
+resumen la importancia de la calidad en el desarrollo de sistema de información, posible para el martes 26 de agosto 2025
+
+investigar para una exposición del tema, 1.4.2 el compromiso total con la calidad, posible para el martes 26 de agosto 2025

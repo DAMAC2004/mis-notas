@@ -1,3 +1,4 @@
+
 # Administracion de servidores
 
 **Porfesor:** Humberto Javier Guirao Martinez
@@ -127,32 +128,32 @@ Los servidores son escenciales en redes modernas, para cosas como la clasificaci
 
 ####  actividad
 
-| Característica | **Servidor en Hardware dedicado** | **Servidor en Software dedicado (Virtualizado / Nube)** |
-|----------------|----------------------------------|--------------------------------------------------------|
-| **Infraestructura** | Servidor físico exclusivo. | Servidor virtual que se ejecuta sobre un host físico compartido. |
-| **Ejemplos** | Un servidor Dell PowerEdge, HP ProLiant, IBM System X dedicado solo a bases de datos. | **Virtualización tradicional:** VMware ESXi, Hyper-V, Proxmox, VirtualBox. <br> **Contenedorización:** Docker, Kubernetes. <br> **Nube:** AWS EC2, Google Cloud Compute Engine, Azure Virtual Machines. |
-| **Costo inicial** | Alto: compra de hardware, instalación y mantenimiento físico. | Bajo/medio: pago por uso (nube) o menor inversión en hardware (máquinas virtuales o contenedores). |
-| **Escalabilidad** | Limitada: depende del hardware físico. | Muy alta: creación rápida de VMs o contenedores; en la nube se puede escalar bajo demanda. |
-| **Mantenimiento** | Incluye piezas físicas (RAM, discos, fuente de poder, etc.). | El hardware lo maneja el proveedor o el host; el administrador se centra en software. |
-| **Rendimiento** | Constante y totalmente dedicado. | Puede variar según la carga del host o las políticas del proveedor. |
-| **Disponibilidad** | Depende del hardware: una falla física puede detener todo. | Alta: la nube y la virtualización permiten migraciones en caliente, redundancia y balanceo. |
-| **Seguridad** | Control total, ya que el servidor está en las instalaciones. | Depende del aislamiento del hipervisor o contenedor; se confía también en el proveedor de nube. |
-| **Flexibilidad** | Baja: difícil de mover o ampliar. | Alta: despliegue rápido de servidores, clonación y balanceo de carga. |
-| **Tiempo de implementación** | Lento: instalación física y configuración desde cero. | Rápido: levantar una VM, un contenedor o una instancia en la nube toma minutos. |
-| **Uso típico** | Bancos, gobiernos, empresas grandes con alta seguridad y control de datos. | Startups, desarrolladores, empresas que buscan flexibilidad y reducción de costos. |
+| Característica               | **Servidor en Hardware dedicado**                                                     | **Servidor en Software dedicado (Virtualizado / Nube)**                                                                                                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Infraestructura**          | Servidor físico exclusivo.                                                            | Servidor virtual que se ejecuta sobre un host físico compartido.                                                                                                                                        |
+| **Ejemplos**                 | Un servidor Dell PowerEdge, HP ProLiant, IBM System X dedicado solo a bases de datos. | **Virtualización tradicional:** VMware ESXi, Hyper-V, Proxmox, VirtualBox. <br> **Contenedorización:** Docker, Kubernetes. <br> **Nube:** AWS EC2, Google Cloud Compute Engine, Azure Virtual Machines. |
+| **Costo inicial**            | Alto: compra de hardware, instalación y mantenimiento físico.                         | Bajo/medio: pago por uso (nube) o menor inversión en hardware (máquinas virtuales o contenedores).                                                                                                      |
+| **Escalabilidad**            | Limitada: depende del hardware físico.                                                | Muy alta: creación rápida de VMs o contenedores; en la nube se puede escalar bajo demanda.                                                                                                              |
+| **Mantenimiento**            | Incluye piezas físicas (RAM, discos, fuente de poder, etc.).                          | El hardware lo maneja el proveedor o el host; el administrador se centra en software.                                                                                                                   |
+| **Rendimiento**              | Constante y totalmente dedicado.                                                      | Puede variar según la carga del host o las políticas del proveedor.                                                                                                                                     |
+| **Disponibilidad**           | Depende del hardware: una falla física puede detener todo.                            | Alta: la nube y la virtualización permiten migraciones en caliente, redundancia y balanceo.                                                                                                             |
+| **Seguridad**                | Control total, ya que el servidor está en las instalaciones.                          | Depende del aislamiento del hipervisor o contenedor; se confía también en el proveedor de nube.                                                                                                         |
+| **Flexibilidad**             | Baja: difícil de mover o ampliar.                                                     | Alta: despliegue rápido de servidores, clonación y balanceo de carga.                                                                                                                                   |
+| **Tiempo de implementación** | Lento: instalación física y configuración desde cero.                                 | Rápido: levantar una VM, un contenedor o una instancia en la nube toma minutos.                                                                                                                         |
+| **Uso típico**               | Bancos, gobiernos, empresas grandes con alta seguridad y control de datos.            | Startups, desarrolladores, empresas que buscan flexibilidad y reducción de costos.                                                                                                                      |
 
-| Característica | Servidor en **Hardware dedicado** | Servidor en **Software dedicado** (Virtualizado / Nube) |
-|----------------|----------------------------------|--------------------------------------------------------|
-| **Infraestructura** | Requiere un servidor físico exclusivo. | Se ejecuta sobre un servidor físico, pero compartiendo recursos con otros mediante virtualización. |
-| **Costo inicial** | Alto: compra de hardware, instalación y mantenimiento físico. | Bajo/medio: pago por uso (nube) o menor inversión en hardware (máquinas virtuales). |
-| **Escalabilidad** | Limitada: depende de la capacidad física del servidor. | Alta: se pueden crear más máquinas virtuales o contratar más recursos en la nube rápidamente. |
-| **Mantenimiento** | Administrador debe encargarse de hardware (discos, RAM, red, etc.). | Se centra en software; el hardware es gestionado por el proveedor de nube o el hipervisor. |
-| **Rendimiento** | Alto y predecible: los recursos son 100% dedicados. | Puede variar según la carga del host o políticas del proveedor. |
-| **Disponibilidad** | Si falla el hardware, todo el servidor se detiene. | Mayor redundancia: la nube permite replicación y migración en caliente. |
-| **Seguridad** | Mayor control físico y lógico sobre el servidor. | Depende de la configuración y del proveedor; riesgos compartidos en entornos multiusuario. |
-| **Flexibilidad** | Difícil de mover o adaptar a nuevas necesidades. | Muy flexible: permite migración entre hosts, ampliación dinámica de recursos y despliegue rápido. |
-| **Tiempo de implementación** | Lento: adquisición, instalación y configuración de hardware. | Rápido: una VM o instancia en la nube se levanta en minutos. |
-| **Uso típico** | Empresas que necesitan control total, alta seguridad y rendimiento constante. | Empresas que requieren flexibilidad, reducción de costos y escalabilidad. |
+| Característica               | Servidor en **Hardware dedicado**                                             | Servidor en **Software dedicado** (Virtualizado / Nube)                                            |
+| ---------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Infraestructura**          | Requiere un servidor físico exclusivo.                                        | Se ejecuta sobre un servidor físico, pero compartiendo recursos con otros mediante virtualización. |
+| **Costo inicial**            | Alto: compra de hardware, instalación y mantenimiento físico.                 | Bajo/medio: pago por uso (nube) o menor inversión en hardware (máquinas virtuales).                |
+| **Escalabilidad**            | Limitada: depende de la capacidad física del servidor.                        | Alta: se pueden crear más máquinas virtuales o contratar más recursos en la nube rápidamente.      |
+| **Mantenimiento**            | Administrador debe encargarse de hardware (discos, RAM, red, etc.).           | Se centra en software; el hardware es gestionado por el proveedor de nube o el hipervisor.         |
+| **Rendimiento**              | Alto y predecible: los recursos son 100% dedicados.                           | Puede variar según la carga del host o políticas del proveedor.                                    |
+| **Disponibilidad**           | Si falla el hardware, todo el servidor se detiene.                            | Mayor redundancia: la nube permite replicación y migración en caliente.                            |
+| **Seguridad**                | Mayor control físico y lógico sobre el servidor.                              | Depende de la configuración y del proveedor; riesgos compartidos en entornos multiusuario.         |
+| **Flexibilidad**             | Difícil de mover o adaptar a nuevas necesidades.                              | Muy flexible: permite migración entre hosts, ampliación dinámica de recursos y despliegue rápido.  |
+| **Tiempo de implementación** | Lento: adquisición, instalación y configuración de hardware.                  | Rápido: una VM o instancia en la nube se levanta en minutos.                                       |
+| **Uso típico**               | Empresas que necesitan control total, alta seguridad y rendimiento constante. | Empresas que requieren flexibilidad, reducción de costos y escalabilidad.                          |
 
 
 ### clase 2025-08-20
