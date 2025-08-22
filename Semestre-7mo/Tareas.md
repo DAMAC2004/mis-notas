@@ -48,3 +48,4 @@ Jueves 21 de Agosto 2025
 ## Fundamentos de T.I.
 
 Hacer expo de SGAE
+basicamente es para que sepamos que tan avanzado esta el proyecto
