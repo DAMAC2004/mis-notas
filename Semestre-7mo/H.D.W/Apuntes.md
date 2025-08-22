@@ -85,5 +85,29 @@ COmbinana las carateristicas web  nativa, esto logra que no se necesite de inter
 #### Aplicacaiones web sociales
 manejo de base de dtos, notifiaciones, es necesario aclarar todo esto?
 
+---
 
+## Clase 2025-08-22
 
+### 1. 
+
+Que es una aplicacion web?
+
+**Beneficios fundamentales de las aplicaciones web**
+
+- Accecibilidad universal
+- Desarrollo eficiente
+- Estabilidad flexible
+
+**Componentes principales de la Arquitectura web**
+
+- Capa de presentacion
+- Capa de aplicacion
+- Capa de datos
+- Infraestrutura y Comunicacion
+
+**Modelos Arquitectonicos Comunes**
+
+- Monolitica
+- EN capas(3 usualemente)
+- Microservicios

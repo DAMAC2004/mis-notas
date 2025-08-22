@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c7e29ab9bdd292ef",
+    "id": "46aaba62db6a212c",
     "type": "split",
     "children": [
       {
-        "id": "425784a9e05816dd",
+        "id": "57aa0d89d36ef0ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d94f11ac8865e897",
+            "id": "8493a9253570401a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5f6108248403cc36",
+    "id": "555018744cff15ce",
     "type": "split",
     "children": [
       {
-        "id": "e8cdfff444384ba8",
+        "id": "1980f13ee05c5ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "59d8b4ecf65a3ee2",
+            "id": "4cc57c59f2c6b739",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4af6514347a1ec36",
+            "id": "e27a7a6507b62d0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d3d9183cb27ee401",
+            "id": "a0565d88da746a2f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 300
   },
   "right": {
-    "id": "60cfd100d0e9a91f",
+    "id": "772601b9b8610975",
     "type": "split",
     "children": [
       {
-        "id": "15727393e843fbcb",
+        "id": "717f5a781b558cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "500cd1fa6898dcef",
+            "id": "e406db7c453206c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semestre-7mo/F.T.I/Clases.md",
+                "file": "Semestre-7mo/Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Clases"
+              "title": "Enlaces entrantes de Tareas"
             }
           },
           {
-            "id": "fd0907cc495eaf7b",
+            "id": "72c99cc971ee1edb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semestre-7mo/F.T.I/Clases.md",
+                "file": "Semestre-7mo/Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Clases"
+              "title": "Enlaces salientes de Tareas"
             }
           },
           {
-            "id": "ab7a02048c7dd64a",
+            "id": "b5821a0c260679d3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "f198f08264b4d75a",
+            "id": "8d61168ca328706b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semestre-7mo/F.T.I/Clases.md",
+                "file": "Semestre-7mo/Tareas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Clases"
+              "title": "Esquema de Tareas"
             }
           }
         ]
@@ -160,38 +160,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "d94f11ac8865e897",
+  "active": "8493a9253570401a",
   "lastOpenFiles": [
-    "Semestre-7mo/C.S.I/Clases.md",
-    "Semestre-7mo/Tareas.md",
-    "Semestre-7mo/S.I/archivos",
-    "Semestre-7mo/T.I/Clases.md",
-    "Semestre-7mo/T.B.D/clases.md",
-    "Semestre-7mo/S.I/Clases.md",
-    "Semestre-7mo/H.D.W/Apuntes.md",
-    "Semestre-7mo/F.T.I/Clases.md",
-    "Semestre-7mo/Empre/clases.md",
-    "Semestre-7mo/A.S/Clases.md",
-    "Semestre-7mo/A.S/archivos-de-inicio/Administración de servidores.pdf",
-    "Semestre-7mo/tareas.md",
-    "Semestre-7mo/T.I",
-    "Semestre-7mo/Sin nombre",
-    "Semestre-7mo/S.I/archivos/Seguridad_Informatica.pdf",
-    "Semestre-7mo/S.I/Seguridad_Informatica.pdf.opdownload",
-    "Semestre-7mo/S.I",
-    "Semestre-7mo/C.S.I",
-    "Semestre-7mo/A.S/archivos-de-inicio",
-    "Sin título.canvas",
-    "2025-08-19.md",
-    "Semestre-7mo/F.T.I"
+    "Semestre-7mo/Hora (2).pdf",
+    "Semestre-7mo/Tareas.md"
   ]
 }

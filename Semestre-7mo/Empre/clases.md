@@ -104,4 +104,51 @@ UN proyecto es un esfuerzo temporal emprendido para crear un producto o un servi
 - Tipo de inversion
 
 
+## Clase 2025-08-22
+
+Tabla comparativa de proyecto privado y publico
+
+las preguntas son
+
+A quien va dirigido la accion
+como se financia
+cual es la motivacion
+
+cual es el producto
+
+cual es la zona geografica
+
+**1.2 TIpos de proyectos**
+
+- Independientes: Cuando ninguno tiene que ver con el otro
+- Complementarios: cuando uno apoya al otro
+- Sustitutos cuando uno esta en capacidad de reemplaza al otro
+
+**1.2.1 tipos de inversion**
+
+- Modernizacion: Cuando sin haber cumplido su ciclo es reemplazado po otro que permite modernizar por ejemplo su tecnlogia
+- Reposicion: Cumplio su ciclo, es necesario remplazarlo por otro que permite reponer como activos fijos
+- Expansion: independientemente de si ha cumplido o no su ciclo, se aprovecha para expnadir su cobertura, lacual se puede dar po armpliacion o por diversificacion de mercado
+- Caracter estrategico: cuando independientemente de su rentabilidad, se hace indispensable para la ejecucion de oto
+
+**1.3 Fases de un proyecto - Ciclo de vida**
+
+del proyecto se necesitan varias cosas
+
+- Insumos
+	- Talento humano
+	- capital
+	- tecnología
+	- conocimiento
+	- tiempo
+
+Fases del ciclo de vida de un proyecto
+
+- Preinversion
+- Inversion
+- Operacion
+
+**Fases de un proyecto**
+
+**factores de un proyecto**
 
