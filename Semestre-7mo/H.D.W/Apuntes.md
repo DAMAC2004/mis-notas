@@ -111,3 +111,19 @@ Que es una aplicacion web?
 - Monolitica
 - EN capas(3 usualemente)
 - Microservicios
+
+## Clase 2025-08-25
+
+Los clientes hacen peticiones de informacion al servidor apartir del protocolo conocido como http y el servidor le devuelve la informacion en html estatico puro
+
+dentro de esta logica exiten muchas metodologias, conceptos e informacion de por medio para que esto ocurra
+
+por ejemplo aqui podemos hablar d elo siguiente
+
+- Backend
+	- hablamos de cosas como el servidor, donde este puede estar sostenido mediante Apache o IIS
+	- puede contar con modulos como lo son php, asp, BD, Mysql, oracle
+- Frontend
+	- frameworks
+	- protocolos de peticion de informacion
+

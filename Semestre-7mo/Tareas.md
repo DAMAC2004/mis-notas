@@ -1,13 +1,5 @@
 ## Administrador de servidores
 
-- ensayo del tema 1.2
-	- introducción
-	- desarrollo 
-	- conclusión
-	- bibliográfica
-
-lunes 25 de agosto 2025 - 3
-
 ---
 
 ## Calidad de los Sistemas Informáticos
@@ -34,14 +26,6 @@ para viernes 22 de agosto 2025
 ---
 
 ## Seguridad Informatica
-
-**Cosas a investigar**
-
-Investigar el valor de la información
-Definición de seguridad informatica
-Vision global de la seguridad informatica
-
-Jueves 21 de Agosto 2025
 
 ---
 
