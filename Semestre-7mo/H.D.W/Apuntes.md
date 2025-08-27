@@ -114,16 +114,33 @@ Que es una aplicacion web?
 
 ## Clase 2025-08-25
 
-Los clientes hacen peticiones de informacion al servidor apartir del protocolo conocido como http y el servidor le devuelve la informacion en html estatico puro
+Los clientes hacen peticiones de información al servidor a partir del protocolo conocido como http y el servidor le devuelve la información en html estático puro
 
-dentro de esta logica exiten muchas metodologias, conceptos e informacion de por medio para que esto ocurra
+dentro de esta lógica existen muchas metodologías, conceptos e información de por medio para que esto ocurra
 
-por ejemplo aqui podemos hablar d elo siguiente
+por ejemplo aquí podemos hablar de lo siguiente:
 
 - Backend
 	- hablamos de cosas como el servidor, donde este puede estar sostenido mediante Apache o IIS
-	- puede contar con modulos como lo son php, asp, BD, Mysql, oracle
+	- puede contar con módulos como lo son php, asp, BD, Mysql, oracle
 - Frontend
-	- frameworks
+	- Frameworks
 	- protocolos de peticion de informacion
+-  Tipos de peticiones HTTP
+	- GET
+	- PUT
+	- POST
+	- DELETE
 
+- Arquitectura Horizontal
+	- Caracterizado por una estrctura smple y plana
+	- Se plasma en una sola pagina
+	- No es escalable
+- Arquitectura jerarquica
+	-  Estrutura ramificada con secciones
+	- hace que la info sea mas facil de encontrar
+	- ayuda a los motores de busqueda a entender la relevancia de los contenidos
+- Arquitectura Silo
+	- Hace referencia a una estructura web que tiene el propósito de unificar y agrupar el contenido  por temáticas únicas de forma estructurada y ordenada
+	- El contenido se organiza en _silos_ de palabras clave para ayudar a incrementar la visibilidad de estas keywords.
+	- 

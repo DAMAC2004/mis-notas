@@ -145,4 +145,32 @@ fase 3
 - seguridad y proteccion
 
 ---
+## Clase 2025-08-26
 
+1.4 Iportancia de la calidad 
+- radica en la satisfaccion del cliente
+- ahorro en costos
+- proteccion de datos
+- competitividad de una organizacion
+
+1.4.1 la calidad y el mundo globalizado
+
+La calidad es crucial en los sistemas de informacion computarizados dentro de un mundo globalizado por que asefuuira que los datos sean exactos y oportunos
+
+La calidad actualente no solo es no tener defectos si no que actualmente tambien tenemos lo siguientes 4 puntos:
+- competir internacionalmente
+- cumplir estandares universales
+- responder rapido a cambios
+- generar confianza
+
+factores que impulsa la calidad en la globalizacion
+-  tecnologia
+- competencia globlal
+- consumidores 
+- orientacion al cliente
+
+Consecuencias de la falta de calidad
+
+- no mas recomendaciones
+- impacto economico
+- riesgo legal

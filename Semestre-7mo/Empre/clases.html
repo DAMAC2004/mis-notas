@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Emprendedores</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+/* From extension jebbs.markdown-extended */
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Material Icons"), local("MaterialIcons-Regular"), url("data:application/x-font-woff;charset=utf-8;base64,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") format("woff");
+}
+
+.admonition {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 1px 5px 0 rgba(0, 0, 0, .12), 0 3px 1px -2px rgba(0, 0, 0, .2);
+  position: relative;
+  margin: 1.5625em 0;
+  padding: 0 1.2rem;
+  border-left: .4rem solid rgba(68, 138, 255, .8);
+  border-radius: .2rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  overflow: auto;
+}
+
+.admonition>p {
+  margin-top: .8rem;
+}
+
+.admonition>.admonition-title {
+  margin: 0 -1.2rem;
+  padding: .8rem 1.2rem .8rem 3.6rem;
+  border-bottom: 1px solid rgba(68, 138, 255, .2);
+  background-color: rgba(68, 138, 255, .1);
+  font-weight: 700;
+}
+
+.admonition>.admonition-title:before {
+  position: absolute;
+  left: 1.2rem;
+  font-size: 1.5rem;
+  color: rgba(68, 138, 255, .8);
+  content: "\E3C9";
+}
+
+.admonition>.admonition-title:before {
+  font-family: Material Icons;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 2rem;
+  text-transform: none;
+  white-space: nowrap;
+  speak: none;
+  word-wrap: normal;
+  direction: ltr;
+}
+
+.admonition.summary,
+.admonition.abstract,
+.admonition.tldr {
+  border-left-color: rgba(0, 176, 255, .8);
+}
+
+.admonition.summary>.admonition-title,
+.admonition.abstract>.admonition-title,
+.admonition.tldr>.admonition-title {
+  background-color: rgba(0, 176, 255, .1);
+  border-bottom-color: rgba(0, 176, 255, .2);
+}
+
+.admonition.summary>.admonition-title:before,
+.admonition.abstract>.admonition-title:before,
+.admonition.tldr>.admonition-title:before {
+  color: rgba(0, 176, 255, 1);
+  ;
+  content: "\E8D2";
+}
+
+.admonition.hint,
+.admonition.tip {
+  border-left-color: rgba(0, 191, 165, .8);
+}
+
+.admonition.hint>.admonition-title,
+.admonition.tip>.admonition-title {
+  background-color: rgba(0, 191, 165, .1);
+  border-bottom-color: rgba(0, 191, 165, .2);
+}
+
+.admonition.hint>.admonition-title:before,
+.admonition.tip>.admonition-title:before {
+  color: rgba(0, 191, 165, 1);
+  content: "\E80E";
+}
+
+.admonition.info,
+.admonition.todo {
+  border-left-color: rgba(0, 184, 212, .8);
+}
+
+.admonition.info>.admonition-title,
+.admonition.todo>.admonition-title {
+  background-color: rgba(0, 184, 212, .1);
+  border-bottom-color: rgba(0, 184, 212, .2);
+}
+
+.admonition.info>.admonition-title:before,
+.admonition.todo>.admonition-title:before {
+  color: rgba(0, 184, 212, 1);
+  ;
+  content: "\E88E";
+}
+
+.admonition.success,
+.admonition.check,
+.admonition.done {
+  border-left-color: rgba(0, 200, 83, .8);
+}
+
+.admonition.success>.admonition-title,
+.admonition.check>.admonition-title,
+.admonition.done>.admonition-title {
+  background-color: rgba(0, 200, 83, .1);
+  border-bottom-color: rgba(0, 200, 83, .2);
+}
+
+.admonition.success>.admonition-title:before,
+.admonition.check>.admonition-title:before,
+.admonition.done>.admonition-title:before {
+  color: rgba(0, 200, 83, 1);
+  ;
+  content: "\E876";
+}
+
+.admonition.question,
+.admonition.help,
+.admonition.faq {
+  border-left-color: rgba(100, 221, 23, .8);
+}
+
+.admonition.question>.admonition-title,
+.admonition.help>.admonition-title,
+.admonition.faq>.admonition-title {
+  background-color: rgba(100, 221, 23, .1);
+  border-bottom-color: rgba(100, 221, 23, .2);
+}
+
+.admonition.question>.admonition-title:before,
+.admonition.help>.admonition-title:before,
+.admonition.faq>.admonition-title:before {
+  color: rgba(100, 221, 23, 1);
+  ;
+  content: "\E887";
+}
+
+.admonition.warning,
+.admonition.attention,
+.admonition.caution {
+  border-left-color: rgba(255, 145, 0, .8);
+}
+
+.admonition.warning>.admonition-title,
+.admonition.attention>.admonition-title,
+.admonition.caution>.admonition-title {
+  background-color: rgba(255, 145, 0, .1);
+  border-bottom-color: rgba(255, 145, 0, .2);
+}
+
+.admonition.attention>.admonition-title:before {
+  color: rgba(255, 145, 0, 1);
+  content: "\E417";
+}
+
+.admonition.warning>.admonition-title:before,
+.admonition.caution>.admonition-title:before {
+  color: rgba(255, 145, 0, 1);
+  content: "\E002";
+}
+
+.admonition.failure,
+.admonition.fail,
+.admonition.missing {
+  border-left-color: rgba(255, 82, 82, .8);
+}
+
+.admonition.failure>.admonition-title,
+.admonition.fail>.admonition-title,
+.admonition.missing>.admonition-title {
+  background-color: rgba(255, 82, 82, .1);
+  border-bottom-color: rgba(255, 82, 82, .2);
+}
+
+.admonition.failure>.admonition-title:before,
+.admonition.fail>.admonition-title:before,
+.admonition.missing>.admonition-title:before {
+  color: rgba(255, 82, 82, 1);
+  ;
+  content: "\E14C";
+}
+
+.admonition.danger,
+.admonition.error,
+.admonition.bug {
+  border-left-color: rgba(255, 23, 68, .8);
+}
+
+.admonition.danger>.admonition-title,
+.admonition.error>.admonition-title,
+.admonition.bug>.admonition-title {
+  background-color: rgba(255, 23, 68, .1);
+  border-bottom-color: rgba(255, 23, 68, .2);
+}
+
+.admonition.danger>.admonition-title:before {
+  color: rgba(255, 23, 68, 1);
+  content: "\E3E7";
+}
+
+.admonition.error>.admonition-title:before {
+  color: rgba(255, 23, 68, 1);
+  content: "\E14C";
+}
+
+.admonition.bug>.admonition-title:before {
+  color: rgba(255, 23, 68, 1);
+  content: "\E868";
+}
+
+.admonition.example,
+.admonition.snippet {
+  border-left-color: rgba(0, 184, 212, .8);
+}
+
+.admonition.example>.admonition-title,
+.admonition.snippet>.admonition-title {
+  background-color: rgba(0, 184, 212, .1);
+  border-bottom-color: rgba(0, 184, 212, .2);
+}
+
+.admonition.example>.admonition-title:before,
+.admonition.snippet>.admonition-title:before {
+  color: rgba(0, 184, 212, 1);
+  ;
+  content: "\E242";
+}
+
+.admonition.quote,
+.admonition.cite {
+  border-left-color: rgba(158, 158, 158, .8);
+}
+
+.admonition.quote>.admonition-title,
+.admonition.cite>.admonition-title {
+  background-color: rgba(158, 158, 158, .1);
+  border-bottom-color: rgba(158, 158, 158, .2);
+}
+
+.admonition.quote>.admonition-title:before,
+.admonition.cite>.admonition-title:before {
+  color: rgba(158, 158, 158, 1);
+  ;
+  content: "\E244";
+}
+.vscode-light kbd,
+.vscode-dark kbd,
+.vscode-high-contrast kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 10px;
+  vertical-align: middle;
+  border: solid 1px #d1d5da;
+  border-bottom-color: #c6cbd1;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #c6cbd1;
+}
+
+.vscode-light kbd {
+  color: #444d56;
+  background-color: #fafbfc;
+}
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="emprendedores">Emprendedores</h1>
+<p><strong>Profesor:</strong> Josue Abner Suarez Aguilar</p>
+<p><strong>Objetivo:</strong></p>
+<p><strong>Temario:</strong></p>
+<ul>
+<li>unidad 1: <code>Protocolo/plan de negocio</code></li>
+<li>unidad 2: <code>Estudio de Mercado</code></li>
+<li>unidad 3: <code>Estudio Tecnico</code></li>
+<li>unidad 4: <code>Estudio Ambiental</code></li>
+<li>unidad 5: <code>Evaluacion financiera</code></li>
+<li>unidad 6: <code>Resumen Ejecutivo</code></li>
+</ul>
+<hr>
+<h2 id="clase-2025-08-18">Clase 2025-08-18</h2>
+<p>hicimos equipos</p>
+<h2 id="clase-2025-08-20">Clase 2025-08-20</h2>
+<p><strong>Espiritu emprendedor</strong></p>
+<p>Es sabaer sacrificar tiempo personal en favor del proyecto cuando sea necesario, es una cualidad muy solicitada por todos los que desean iniciar su propia empresa, y cumplir con todos sus objetivos de negocio en efecto, es una carateriticas que permite a cualquier emprendedor, ser constante y enfocado en lo que desa lograr con su emprendimiento</p>
+<p>El emprendedor es quien apartir de una idea innovadora saca adelante un proyecto en el que el <strong>CREE</strong> apasionadamente, busca la manera de materializarlo y asume los riesgos y consecencias que esto significa, es quien tiene interes de innovar y buscar nuevos modelos de negocio, tambuen, alguien que no teme arrisgarse, hace lo que sea por alcanzar sus objetivos y metas, es capaz de ver oportunidades donde otros ven espinas</p>
+<p>caraterisitics del emprendedor:</p>
+<ul>
+<li>Pasion</li>
+<li>Seguridad</li>
+<li>Creatividad</li>
+<li>Intuicion</li>
+<li>Sabiduria</li>
+<li>Innovacion</li>
+</ul>
+<p>Habilidades del emprendedor</p>
+<table>
+<thead>
+<tr>
+<th>Admministrativo</th>
+<th>Medios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pensamiento analitico</td>
+<td>Edicion y redaccion de contenidos</td>
+</tr>
+<tr>
+<td>Control mental</td>
+<td>Escriir correctamente de formacion rapida</td>
+</tr>
+<tr>
+<td>Potencial de formacion</td>
+<td>pROGRAMACION DE HTML/css</td>
+</tr>
+<tr>
+<td>Liderazgo</td>
+<td>bIG DATA</td>
+</tr>
+<tr>
+<td></td>
+<td>Medios socales</td>
+</tr>
+<tr>
+<td></td>
+<td>Presentacion</td>
+</tr>
+<tr>
+<td></td>
+<td>Networking</td>
+</tr>
+<tr>
+<td></td>
+<td>Diseno grafico</td>
+</tr>
+<tr>
+<td></td>
+<td>Orden</td>
+</tr>
+<tr>
+<td></td>
+<td>Metodologias</td>
+</tr>
+<tr>
+<td></td>
+<td>Plataformas eergentes</td>
+</tr>
+<tr>
+<td></td>
+<td>Positividad</td>
+</tr>
+<tr>
+<td></td>
+<td>Outtresh</td>
+</tr>
+</tbody>
+</table>
+<h3 id="11-definicion-de-conceptos">1.1 Definicion de conceptos</h3>
+<ul>
+<li>ONU: Conjunto de antecedente y elementos de juicio que permiten estimar la conveniencia de asignar recursos a la produccion de deteminados biene o servicios</li>
+<li>ANONIMO: Mecanismos tecnicos. Administrativo que permite minimizar los riesfos inherentes a la decision de invertir</li>
+<li>Protocol manajer institude</li>
+<li>CIFI: Se refiere a un conjunto articulado y coherente de actividades orientados a alcanzr uno o varios objetivos siguiendo una metodologia definida para lo cual precisa un equipo de personas idoneas</li>
+</ul>
+<p>UN proyecto es un esfuerzo temporal emprendido para crear un producto o un servicio unico</p>
+<h4 id="origen-de-los-proyectos">Origen de los proyectos</h4>
+<ul>
+<li>Necesidades como la nececisidad de ahorro de recurso nacional o extranjero</li>
+<li>Indentificacion de problemas por resolver relacionado con necesidades poblacionales, la escasa disponibilidad de recursos tanto tecnicos como financieros y con la optia y eficiente utilizando los recursos</li>
+<li>OPortunidad de negocios relacionadas con la consodiliacion de estrategias que desarrolla objetos definidos con anterioridad</li>
+</ul>
+<h4 id="escenarios"><strong>Escenarios</strong></h4>
+<p><strong>Deterministicos</strong> basicamente 100% de exito en el proyecto
+<strong>Probabilistico</strong> no es preciso pero es algo que puede slair bien
+<strong>Totalmente inciero</strong> no se sbae si dara ganancias o empeorara las situacion, son muy arriesgados pero puede que de mucha reuneracion de salir bien</p>
+<hr>
+<h3 id="12-tipos-de-proyectos">1.2 Tipos de proyectos</h3>
+<ul>
+<li>Tiempo
+<ul>
+<li>Tiempo de ejecucion del proyecto
+<ul>
+<li>puente peatonal que se contruye en 9 meses</li>
+<li>canal de paanama que se contruyo en varios meses</li>
+</ul>
+</li>
+<li>Tiempo de aprovechamiento o del proyecto
+<ul>
+<li>colombia lanzo un satelite que duro pocas semana</li>
+<li>una carretera que dura 300 meses</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Sector productivo
+<ul>
+<li>Agropecuarios</li>
+<li>Industriales</li>
+<li>Infraestructura social</li>
+<li>Infraestructura economica</li>
+<li>servicios</li>
+</ul>
+</li>
+<li>Tipo del bien
+<ul>
+<li>bienes tangibles</li>
+<li>Bienes intangibles</li>
+<li>Bienes Intermedios</li>
+<li>Bienes Finales</li>
+<li>Bienes finales de capital</li>
+<li>Bienes de comsumo</li>
+</ul>
+</li>
+<li>Destino</li>
+<li>Grado de dependencia</li>
+<li>Tipo de inversion</li>
+</ul>
+<h2 id="clase-2025-08-22">Clase 2025-08-22</h2>
+<p>Tabla comparativa de proyecto privado y publico</p>
+<p>las preguntas son</p>
+<p>A quien va dirigido la accion
+como se financia
+cual es la motivacion</p>
+<p>cual es el producto</p>
+<p>cual es la zona geografica</p>
+<p><strong>1.2 TIpos de proyectos</strong></p>
+<ul>
+<li>Independientes: Cuando ninguno tiene que ver con el otro</li>
+<li>Complementarios: cuando uno apoya al otro</li>
+<li>Sustitutos cuando uno esta en capacidad de reemplaza al otro</li>
+</ul>
+<p><strong>1.2.1 tipos de inversion</strong></p>
+<ul>
+<li>Modernizacion: Cuando sin haber cumplido su ciclo es reemplazado po otro que permite modernizar por ejemplo su tecnlogia</li>
+<li>Reposicion: Cumplio su ciclo, es necesario remplazarlo por otro que permite reponer como activos fijos</li>
+<li>Expansion: independientemente de si ha cumplido o no su ciclo, se aprovecha para expnadir su cobertura, lacual se puede dar po armpliacion o por diversificacion de mercado</li>
+<li>Caracter estrategico: cuando independientemente de su rentabilidad, se hace indispensable para la ejecucion de oto</li>
+</ul>
+<p><strong>1.3 Fases de un proyecto - Ciclo de vida</strong></p>
+<p>del proyecto se necesitan varias cosas</p>
+<ul>
+<li>Insumos
+<ul>
+<li>Talento humano</li>
+<li>capital</li>
+<li>tecnología</li>
+<li>conocimiento</li>
+<li>tiempo</li>
+</ul>
+</li>
+</ul>
+<p>Fases del ciclo de vida de un proyecto</p>
+<ul>
+<li>Preinversion</li>
+<li>Inversion</li>
+<li>Operacion</li>
+</ul>
+<p><strong>Fases de un proyecto</strong></p>
+<p><strong>factores de un proyecto</strong></p>
+<p><strong>1.4 Etapas  de formulacion de un proyecto</strong></p>
+<p>Estudios preeliminares</p>
+<p>Ensayos e investigacion sobre titulos y reglamentos</p>
+<p><strong>Prefeactivilidad</strong></p>
+<p>alternativa adecuadas</p>
+<p><strong>Estudio de ciclio primario o preparacion</strong>
+Seleccion del conceptos
+formulacion del modelo
+analisis de</p>
+<p>dise~no de componenetes
+dise~no de partes
+elaboracion de especificaciones
+dise~no de planos
+construccion prototipo</p>
+<p>dise~no de subsistemas</p>
+<p>Implementacion del proyecto
+v
+Produccion
+Comercializacion
+Consumo
+^
+ciclo secundario</p>
+<p>1.2</p>
+<p>las empresas son comparadas con el cuerpo humano</p>
+<p>ingenieros qu dise~nan empresas e ingenieros que desarrollam sistemas de informacion trabaja individuamente</p>
+<p>Todo interviene desde la compra de 1 computadora hasta la construccion de grandes sistemas informaticos</p>
+<p>procesos</p>
+<ul>
+<li>
+<p>analisis del etrono</p>
+<ul>
+<li>localizacion</li>
+<li>programas de produccion</li>
+<li>seleccion de tecnologia
+<ul>
+<li>Ingenieria</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Politica economica</p>
+<ul>
+<li>evaluacion</li>
+</ul>
+</li>
+<li>
+<p>Generar la idea</p>
+</li>
+<li>
+<p>afinanziamiento</p>
+</li>
+<li>
+<p>eleccion de alternativas</p>
+</li>
+<li>
+<p>analisis de viabilidad</p>
+</li>
+<li>
+<p>Sobre la idea para su nueva empresa y en consecuencia aceca de los productos o servicios que ofrecera</p>
+</li>
+<li>
+<p>Orientado a produccion</p>
+</li>
+<li>
+<p>orientado a la venta</p>
+</li>
+<li>
+<p>Orientado a las relaciones</p>
+</li>
+<li>
+<p>no es una idea mejor fanquisia</p>
+</li>
+</ul>
+<p><strong>que es un proyecto?</strong></p>
+<p>Es la busqueda de una solucion inteligente al planteamiento de un problema pendiente a resolver, lo sporyectos son necesarios po rque mientras el ser huano exista habra emprededoes tendran oportunidades de negocio, para tener una decision sobre un proyecto tiene que someterse a un analisis multidiplinario, tomar en cuenta los antecedentes FODA y el futuro es incierto</p>
+<p>Procesos de preparacion y evaluacion de un proyecto</p>
+<ul>
+<li>aunque cada proyecto es diferente la metodologia es siempre una muy similar entre si, instalacion deuna nueva lanta totalmente nueva</li>
+<li>Elaboracion de nuevo producto</li>
+<li>sustitucion de maquinaria</li>
+</ul>
+<p>estrcutra general de la metodologia de la evaluacion de proyectos</p>
+<ul>
+<li>formulacion y evaluacion de proyectos</li>
+<li>definicion de objetivos</li>
+<li>analisis de mercado - operativo - economico - socioeconomico</li>
+</ul>
+<p>Tecnicas para seleccionar a</p>
+<ul>
+<li>
+<p>otro uso</p>
+</li>
+<li>
+<p>aumenta</p>
+</li>
+<li>
+<p>cambia</p>
+</li>
+<li>
+<p>reduce</p>
+</li>
+<li>
+<p>combina</p>
+</li>
+<li>
+<p>sustituye</p>
+</li>
+<li>
+<p>por que necesito un plan de negocio y que es necesario</p>
+<ul>
+<li>para garantizar financiamiento</li>
+</ul>
+</li>
+</ul>
+<p>que necesitas para armar un plan?</p>
+<ul>
+<li>Solvenncia de la esctrutura financiera</li>
+<li>mercado y productos</li>
+<li>recursos fisics y de produccion</li>
+<li>gestion</li>
+</ul>
+
+            
+            
+        </body>
+        </html>

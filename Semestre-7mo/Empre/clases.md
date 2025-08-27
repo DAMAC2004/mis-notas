@@ -152,3 +152,97 @@ Fases del ciclo de vida de un proyecto
 
 **factores de un proyecto**
 
+**1.4 Etapas  de formulacion de un proyecto**
+
+Estudios preeliminares
+
+Ensayos e investigacion sobre titulos y reglamentos
+
+**Prefeactivilidad**
+
+alternativa adecuadas
+
+**Estudio de ciclio primario o preparacion**
+Seleccion del conceptos
+formulacion del modelo
+analisis de 
+
+dise~no de componenetes
+dise~no de partes
+elaboracion de especificaciones
+dise~no de planos
+construccion prototipo
+
+dise~no de subsistemas
+
+
+Implementacion del proyecto
+    v
+Produccion
+Comercializacion
+Consumo
+    ^
+ciclo secundario
+
+1.2 
+
+las empresas son comparadas con el cuerpo humano
+
+ingenieros qu dise~nan empresas e ingenieros que desarrollam sistemas de informacion trabaja individuamente 
+
+Todo interviene desde la compra de 1 computadora hasta la construccion de grandes sistemas informaticos
+
+procesos
+- analisis del etrono
+	- localizacion
+	- programas de produccion
+	- seleccion de tecnologia
+		- Ingenieria
+- Politica economica
+	- evaluacion
+
+- Generar la idea
+- afinanziamiento
+- eleccion de alternativas
+- analisis de viabilidad
+
+- Sobre la idea para su nueva empresa y en consecuencia aceca de los productos o servicios que ofrecera
+- Orientado a produccion
+- orientado a la venta
+- Orientado a las relaciones
+- no es una idea mejor fanquisia
+
+**que es un proyecto?**
+
+Es la busqueda de una solucion inteligente al planteamiento de un problema pendiente a resolver, lo sporyectos son necesarios po rque mientras el ser huano exista habra emprededoes tendran oportunidades de negocio, para tener una decision sobre un proyecto tiene que someterse a un analisis multidiplinario, tomar en cuenta los antecedentes FODA y el futuro es incierto
+
+Procesos de preparacion y evaluacion de un proyecto
+
+- aunque cada proyecto es diferente la metodologia es siempre una muy similar entre si, instalacion deuna nueva lanta totalmente nueva
+- Elaboracion de nuevo producto
+- sustitucion de maquinaria
+
+
+estrcutra general de la metodologia de la evaluacion de proyectos
+
+- formulacion y evaluacion de proyectos
+- definicion de objetivos
+- analisis de mercado - operativo - economico - socioeconomico
+
+Tecnicas para seleccionar a 
+- otro uso
+- aumenta
+- cambia
+- reduce
+- combina
+- sustituye
+
+- por que necesito un plan de negocio y que es necesario
+	- para garantizar financiamiento
+
+que necesitas para armar un plan?
+
+- Solvenncia de la esctrutura financiera
+- mercado y productos
+- recursos fisics y de produccion
+- gestion

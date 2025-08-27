@@ -40,6 +40,8 @@ basicamente es para que sepamos que tan avanzado esta el proyecto
 
 Investigar la unidad 1 formato apa 7
 
+nompre del  proyecto
+
 Buscar una empresa que financie proyectos tecnologicos
 que esctruectura manejan para gestionar sus recuros(plan de negocios)
 buscar que proyectos tienen
