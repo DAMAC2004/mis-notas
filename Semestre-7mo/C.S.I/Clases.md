@@ -174,3 +174,7 @@ Consecuencias de la falta de calidad
 - no mas recomendaciones
 - impacto economico
 - riesgo legal
+
+## Clase 2025-08-28
+
+HIce mi exposicion de Compromiso total con la calidad

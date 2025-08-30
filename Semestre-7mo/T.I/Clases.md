@@ -25,7 +25,17 @@
 Escribimos acerca de nuestro poyectos, de las necesidades que resuleven, proyecto de solucion e impacto del proyecto que estamos haciendo
 
 
-### Clase 2025-08-19 Clase 2025-08-19
+### Clase 2025-08-19 
+
+## Clase 2025-08-22
+
+## Clase 2025-08-27
+
+
+
+
+
+
 
 
 

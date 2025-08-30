@@ -143,4 +143,63 @@ por ejemplo aquí podemos hablar de lo siguiente:
 - Arquitectura Silo
 	- Hace referencia a una estructura web que tiene el propósito de unificar y agrupar el contenido  por temáticas únicas de forma estructurada y ordenada
 	- El contenido se organiza en _silos_ de palabras clave para ayudar a incrementar la visibilidad de estas keywords.
-	- 
+
+---
+## Clase 2025-08-29
+
+UN servidor web es un software que recibe peticiones htttp
+
+**Servidores**
+
+- Apache
+	- es un software que sirve para recibir peticiones de los navegadores y responder con otras paginas web y /o recursos
+	- Carateristicas
+		- codigo abierto
+		- multiplataforma
+		- basado en modulos
+		- muy usado en hosting
+		- compatibilidad con multiples lenguajes
+	- como funciona?
+		- no alcanzo
+- Ngix
+	- Funciona similar que apache, pero hecho para ser mas ligero y rapido que apache
+	- Caratristicas
+		- ALto rendimiento
+		- ligero
+		- servidor proxy
+		- Balanceador de carga
+		- compatibilidad de pagina estaticas y dinamicas
+	- Como funciona
+		- Peticion hhtp
+		- recibe peticion
+		- si es estatico se entrega directo pero si es dinamico, envia la peticion a otro servicio y lo devuellve
+		- cliente recibe pagina web
+- Internet Information services
+	- z
+	- Carateriticas
+		- Desarrollado por microsoft
+		- integracion con Microsoft
+		- SOporte de multiples protocolos
+		- Gestion sencilla
+		- Escalabilidad
+	- Funciona
+		- peticion http
+		- iis recibe solicitud
+		- si es estatico es directo, si es dinamico para la peticion al motor correspondiente y pasa la respuesta
+		- El cliente recibe la pagina
+- OpernRsty
+	- Es un servidor web con una arquitectura basada en eventos, hecho para contrui aplicaciones y servicios web escalables
+	- Carateristicas
+		- Arquitectura basada en eventos
+		- Alto rendimiento
+		- Alta concurrencia
+	- Como funciona
+		- Basada en Ngix
+		- Procesamiento de solicitudes: cuando un cliente envia una solicitud htto, ngix la recibe y la pasa atraves de serie de fases de procesamiento
+		- lenguaje de programacion lua
+		- ejecucion de codigo lua
+- Gws
+	- Seejecutan en sistemas operativus basados en Unix
+- Servidor Node.JS
+	- El servidor escucha solicitudes http
+	- recibe la peticion, ejecuta codigo y devuelve la pagina

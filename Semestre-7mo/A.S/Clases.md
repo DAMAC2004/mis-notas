@@ -178,6 +178,38 @@ ensayo del tema 1.2
 
 ---
 
+## Clase 2025-08-27
+Analisis
+propuesta de solucion
+- Control de permisos mediante servidor de impresion
+- COnfigurar la impreora en un servidor central
+Resultado
+- todos pueden ver la impresora, pero solo los lideres pueden usarlo
+Justificacion
+- Centralizacion de recursos
+- Escalabilidad
+- Seguridad
+- Administracion eficiente
+- Alineado a la problematica
+
+caso 4
+
+Justificacion
+- Eficiencia al asignar a los lideres rl privilegio de imprimir
+- Seguridad al proteger los datos
+- Reducir gastos en todo lo que implique la impresora
+Solucion:
+- La gestion de permisos de impresion implica establecer reglas para comtrolar la gston de la impresora
+Configuracion:
+- Acceder al panel de control en redes y configuracion de uso compartid
+- activar opciones de compartido
+FLujo de trabajo:
+- Identificador de Operadores
+Conclusion:
+- La restriccion de impresora esta justificada ya que logra mejorar la eficiencia y establecer un sistema seguro y auditable
+
+
+---
 ## Glosario
 
 IIS: Internet Information Services, es un servidor web desarrollado por Microsoft para sistemas operativos Windows. Permite alojar sitios web, aplicaciones y servicios web, ofreciendo funcionalidades para la administración y seguridad de estos recursos.

@@ -1,4 +1,6 @@
-## Administrador de servidores
+## Administrador de servidores\
+
+classroom
 
 ---
 
@@ -22,6 +24,19 @@ posible para el martes 26 de agosto 2025
 - instalar sql managment studio 21 y similares para linux(arch)
 
 para viernes 22 de agosto 2025
+
+que es la plataforma heroku
+como funciona
+hacer ejemplo
+
+para el lunes 22 de septiembre 2025
+
+Act U 1
+
+Investigar y elaborar un infroma de los principales conceptos de la ingenieria web
+realizar una tabala compartiva de todos los elementos constituyentes de la aplicaciones web actuales
+investigar las palataformas de desarrrollo  web y los tipos de servidores web
+
 
 ---
 

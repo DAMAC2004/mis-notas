@@ -98,6 +98,24 @@ hoy en dia respecto a la seguridad informatica, cualquier informacion en la web 
 
 1.6 Técnicas de aseguramiento del sistema. 
 
-
-
+hay varias tecnicas, una de ellas es la siguiente:
+- Contrase~nas seguras
+	- son medidadas y procedimientos deise~nados para protejer los sistemas de informacion
+- Control de Accesos
+- Antivirus y antimalware
+	- proteger
+- tokens
+	- One Use Password
+- Copias de seguridad
+- Actualizacion de software
+- Cifrado de datos
  1.7 Principales amenazas por internet. 
+
+- phishing
+- malware
+	- programa malicioso
+	- viruz
+	- troyano
+	- rasonware
+- Robo de Identidad
+- DDoS
