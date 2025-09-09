@@ -99,7 +99,7 @@ hoy en dia respecto a la seguridad informatica, cualquier informacion en la web 
 1.6 Técnicas de aseguramiento del sistema. 
 
 hay varias tecnicas, una de ellas es la siguiente:
-- Contrase~nas seguras
+- Contrase~nas segu10ras
 	- son medidadas y procedimientos deise~nados para protejer los sistemas de informacion
 - Control de Accesos
 - Antivirus y antimalware
@@ -119,3 +119,16 @@ hay varias tecnicas, una de ellas es la siguiente:
 	- rasonware
 - Robo de Identidad
 - DDoS
+
+## Clase 2025-09-04
+
+1.1
+
+Evitar que sea alterado
+Que este disponible para los usuarios de manera sin 
+
+1.2 
+
+
+
+1.3

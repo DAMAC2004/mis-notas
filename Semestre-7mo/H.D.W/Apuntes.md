@@ -203,3 +203,5 @@ UN servidor web es un software que recibe peticiones htttp
 - Servidor Node.JS
 	- El servidor escucha solicitudes http
 	- recibe la peticion, ejecuta codigo y devuelve la pagina
+
+## Clases 2025-09-05

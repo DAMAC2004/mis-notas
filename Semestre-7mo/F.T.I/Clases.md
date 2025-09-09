@@ -24,3 +24,7 @@ Repasamos 2 artículos del reglamento para conocer algunos cambios en el reglame
 
 #### Cosas a investigar
 la libreta con el formato anterior
+
+## Clase 2025-09-09
+
+actividad de investigacion de hardware necesario 

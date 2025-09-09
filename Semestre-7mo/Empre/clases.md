@@ -246,3 +246,133 @@ que necesitas para armar un plan?
 - mercado y productos
 - recursos fisics y de produccion
 - gestion
+
+## Clase 2025-09-05
+
+**Que es un mercadeo?**
+es un analisis con el fin de identificar las necesidades de los compradores
+
+**implicaciones**
+
+- Promocion
+- Ventas
+- Comerzialicion
+- Investigacion de mercados
+- Analisis del consumidor
+- Desarrllo de nuevos productos de distribucion fisica
+- logistica almacenaje
+
+**que otras implicaciones no visibles**
+- Otorgamiento de financiacion asumir riesgos por otros administrar informacion
+- comunicar
+- informacion
+- persuadir
+- Recordar las propuesas de valor con elementos diferenciadores de la competencia
+
+Demanda
+- precio del producto
+- Nivel de ingreso del demandante
+- tamaño del mercado
+- Gustos
+- Lealtad de marca del consumidor
+- Existencias de sustitutos
+- demanda derivada entre otros
+
+## clase 2025-09-08
+
+Oferta
+- Es la cantidad de unidades de un producto que un ente esta dispuesto a cambiar por un bien, servicio o producto
+- Para realizar una oferta actactiva hay que conocer el mercado donde se va a participar
+
+Intercambio
+- En cuando comprandores y vendedores, libremente y sin presion alguna, traspasan bienres economicos
+
+Valor
+- Es la diferencia que hay entre lo que se paga por la oferta y el extra que se gana del intercambio
+
+Objetivos de estudio de mercado
+- Conocer el tamaño del mercado
+- Crecimiento y tendencia positiva y negativa del mercado
+- Los competidores directos e indirectos
+- Nivel de riesgo del mercado
+- Que ciclos hay en el mercado, ciclo anual, mensual, semenal, dirario, de un solo ciclo
+
+Objetivos basados
+- Consumidres
+- competenia
+- proveedoes
+- Agentes de ntermediacion o distribuidores
+
+Consumidores
+- que necesidades actuales tienne los consumidores
+- que valoran mas hoy de la oferta de esos productos
+- que segmentos se atenderan
+- que tamaño tienen esos segmentos
+- como compran esos consumidores
+- quien influye en la compra
+- cuando compran
+- donde estan los consumidores y en donde compran
+- cuanto comprarn y con que frecuencia
+- cual es el poder negociador
+
+Competencias
+- Donde estan
+- que porpuestas de valor presenta la competencia en el mercado
+- que tan rapido se adaptan a los cambios
+- cuantos tipos diferente de segmentos atienden
+- cuantos son competencia directa e indirecta
+- cual es el poder negociador de los competidores frente al consumidor
+- cual es el poder negociador de los ccompetidores frente a los proveedores
+
+proveedores
+- quienes son
+- cuantos hay
+- como evaluarlos
+- cual es el tiempo desde el ultimo estudio
+- donde estan
+- cuales son los objetivos de aprovisionamiento
+- cual es la velocidad de cambio en los mercados
+- cuales son los riegos de no analizar estos mercados
+- como es la competencia entre los proveedores
+- cual puede llegar a ser el grado de dependencia respecto de los proveedores
+
+Distribuidores
+- Quienes son los posibles distribuidores
+- cuantos psibles distribuidores se pueden tener
+- es posible precindir de los intermediarios
+- que tipo de distribuidores e intermediarios utilizan los competidores
+- cuales son los margenes de ganancia que ellos desean
+- es posible para este mercado utilizar canales multiples de distribucio y evitar el conflicto
+
+Estructura de mercado
+- la funcuion de la demanda
+- precio de lo sproductos
+- el ingreso y poder de compra
+- el tamaño del mercado
+- los gustos de los consumidores y la lealtad de marca
+- la demanda derivada
+- presencia de productos sustitutos
+
+2.2 proceso de mercadoctenia
+los procesos consisten en:
+- Analizar las oportunidades
+- investigar y seleccionar los mercados
+- diser las estrategias
+- planificar los progrmas
+- organizar, intrumentar y controlar el esfuerzo de mercadoctenia
+2.3 Estrategia de producto y precio
+Una estrategia de producto es un conjunto de todas aquellas acciones que se diseñan desde el area del marketing para realizar un bien o servicio , teniendo en cuenta las necesidades y preferencias del cliente potencial
+
+Definicion de producto
+- Es cualquier objeto que se pueda ofecer a un cliente con una necesidad
+- es el resultado de la integracion entre mano de obra, maquinaria con un fin
+
+2.3.1 La naturaleza del producto
+se clasifican en 2 grupos
+- Tangibles
+	- Frecuente
+	- Duradero
+- Intangibles
+2.3.2 analisis de demanda
+- 
+
