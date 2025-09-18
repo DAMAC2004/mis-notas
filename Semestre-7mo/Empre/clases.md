@@ -1,3 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Emprendedores
 
 **Profesor:** Josue Abner Suarez Aguilar
@@ -374,5 +407,42 @@ se clasifican en 2 grupos
 	- Duradero
 - Intangibles
 2.3.2 analisis de demanda
-- 
+Demanda del mercado
+
+Demanda actual
+
+Demanda general
+
+Demanda potencial
+- conocer lo que otros dan
+
+Demanda de la empresa
+- lo que puede dar la empresa
+
+2.3.3 analisis de oferta
+
+Tiene como finalidad establecer las condiciones y cantidades de un bien o servicio que se pretende vender en el mercado, la oferta es la cantidad de productos que se colocan a disposicion del publico consuirdor
+
+Perminte evaluar las fortalezas e implementar estraegias para mejorar la ventajas competitivas, debe efectuarse una revision historica, actual y futura
+
+Tambien deben analizarse las condiciones con las que se maneja dicha oferta, para disponer asi de los elementos minimmos necesarios para establecer las posibilidades que tendra el bien o servicio
+
+- Con el analisis se pretende que los distribuidores estan disponibles para ofrecer/satisfacer dichas necesidades, y los precios a los que estan dispuesto a darlos
+
+2.3.4 (sin ver)
+
+2.3.5 Ciclo de vida
+
+un proyecto siempre, siempre empezara perdiendo
+partir de eso se generan planes de finanziacion
+precios del valor de producto usual de 10 o 15
+
+Valor añadido
+facilidad de acceso
+esquemado de precios
+costeo de precios
+rentabilidad
+
+Hacer estudio de mercado
+
 

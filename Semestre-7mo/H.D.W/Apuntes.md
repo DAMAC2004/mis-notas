@@ -205,3 +205,24 @@ UN servidor web es un software que recibe peticiones htttp
 	- recibe la peticion, ejecuta codigo y devuelve la pagina
 
 ## Clases 2025-09-05
+
+exposicion
+
+## Clases 2025-09-17
+
+Podemos decir que la IA desde que llego, ha cambiado la formas de trabao como se conoce, permite anlaizar patrones de uso, mejorar la experiencia de usaurio y optimizar el renfimmiento de los sitios
+
+Su aplicacion combina creatuvudad analisis de datos y automatizacion
+
+IA en el diseño de interfaces
+
+- genera de manera automartica de prototipos y diseños
+- Soporte para UX/UI con pruebas automaticas de usabilidad
+- Creacion de interfaces personalizadas segun las necesidades del usuario
+- Estudia el comportamiento de los usuarios
+
+Algunas plataformas son:
+- figma
+- adobe sensei
+
+la ia es una herramienta clave que empezaemos a usar mas y mas, asi que hay que integrar estas herramientas

@@ -49,4 +49,25 @@ los sistemas distrubuidos se caraterizan por varios aspectos clave, no existe un
 
 **Sistema Gestor de Base de Datos**
 
-**E **
+## Clase 2025-09-15
+
+Historia y evolucion de las bases de datos
+
+Bases de datos en red
+- fueron la evolucion de otra
+- codase fue el modelo mas conocido(u algo asi)
+- mayor flexibilidad
+- era muy complejo
+- dependencia de la esctructura fisica
+Bases de datos relacionales
+- Basada en la teoria de conjuntos
+- uso de sql estandarizado
+Bases de datos orientadas a objetos
+- persistencia de objetos
+- navegacion de datos atravez de id
+- aparece en los 80's
+- curva de aprendizaje mas alta
+- desajuste de modelos con enfoques que tienen modelo hibrido
+- tiene todo lo que el enfoque poo tiene
+Base de datos de polimorfismo
+- no hay necesidad de normalizacion forzada

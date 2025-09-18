@@ -208,6 +208,9 @@ FLujo de trabajo:
 Conclusion:
 - La restriccion de impresora esta justificada ya que logra mejorar la eficiencia y establecer un sistema seguro y auditable
 
+## Clase 2025-09-09
+
+Investigar sobre los sistemas operativos mas utilzados en las empresas y crear una tabla comparativa ventajas, desventajas ,caracteristicas de los sitemas operativos
 
 ---
 ## Glosario
