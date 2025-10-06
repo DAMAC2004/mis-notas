@@ -371,6 +371,59 @@ Diferencias Windows y linux
 - Windows server tiene una GUI
 - Windows puede llegar a ser mas comodo
 
+### 2.5 Configuracion del sistema operativo y sus recursos
+
+El sistema operativo es el componenete esencial que permite la interaccion entre el usuario y el hardware de un equipo de computo
+
+Interfaz del sistema operativo
+- GUI
+- CLI
+
+Acceso y seguridad
+- Creacio de usuarios y contrases
+- Definicion de permisos y privilegios
+- Configuracion de politicas de inicio de secion
+- Autenticacacion loca y en red
+
+Protocolos y conectividad
+- Soporte para TCP/IP, DHCP y DNS
+- Configuracion de IP estatica o dinamica
+- Ajustes de VPN y firewall
+- Protocolos de comparticion de archivos
+	- SMB
+	- NFS
+	- FTP
+
+Hardware de red
+- Instalacion y configuracion de adaptadores de red
+- Controles y utilidades de red
+- Comporobacion de conectividad o ping
+- Monitoreo de ancho de banda y uso de red
+
+Administracion remota
+
+Capacidad de controlar dispositivos desde diferente ubicacion a la maquina controlada
+
+- Acceso remoto a traves de RDP, SSH y VNC
+- Herramientas de administracion
+	- Powershell remoto
+	- TeamViewer
+	- AnyDesk
+- Gestion de permisos para conexiones remotas
+- Monitoreo y soporte a distancia
+
+Paquetes de aplicaciones
+- Intalacion y desistalacion de software
+- Uso de gestores de paquetes
+	- Apt
+	- yay
+- Administracion de actulizaciones de programas
+- Compatibilidad con ditintos formatos de instalacion
+
+Importancia
+
+La correcta configuracion del sistema operativo y sus recursos es fundamental por que garantza la seguirdad del equipo
+
 
 ---
 ## Glosario
