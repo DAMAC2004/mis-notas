@@ -1,4 +1,5 @@
 
+
 # Administracion de servidores
 
 **Porfesor:** Humberto Javier Guirao Martinez
@@ -211,6 +212,165 @@ Conclusion:
 ## Clase 2025-09-09
 
 Investigar sobre los sistemas operativos mas utilzados en las empresas y crear una tabla comparativa ventajas, desventajas ,caracteristicas de los sitemas operativos
+
+## Clase 2025-09-22
+
+Exposicion - Tema 2.2 Seleccion del sistema Operativo
+- Rene
+- Roberto
+- Geovanni
+- Jairo
+- Yahir
+
+Un SO se encarga de gestionar el hardware de la maquina para realizar las tareas del equipo, lo que implica que segun las necesidades hay que elegir uno u otro SO, para ello existen ciertos criterios
+- Estabilidad y seguridad
+- Compatibilidad
+- Facilidad de instalacion
+- escalabilidad y gestion de carga
+- Soporte y comunidad
+- Costos
+
+SO mas comunes
+- linux
+	- Ventajas
+		- Codigo aberto
+		- Seguro
+		- Altamente cofigurable
+	- Usos
+		- Servidores web
+		- Bases de datos
+		- aplicaciones
+- Windows server
+	- Ventajas
+		- Integracion con microsfot
+		- facilidad de uso
+	- Usos
+		- Active Directory
+		- archivos
+		- impresion
+- Red hat interprise(Fedora, Manracket, Debian
+	- Ventajas
+		- Estabiliad
+		- soporte corporativo
+	- Usos
+		- Aplicaciones empresariales
+- Unix
+	- Ventajas
+		- Escalable
+		- Confiable
+		- Seguro
+	- Usos
+		- Aplicaciones de mision critica
+
+Tipos de sistemas operativos para servidores
+- Linux
+	- Seguro, estable, muy utilizado en servidores web
+- Windows Server
+	- Fail de usar, buena integracion con 
+- Unix y derivados
+	- Confiable y escalables pero menos comunes
+- Otros
+	- IBM ajax, oracle linux, netware
+
+Factores adicionales
+- Tipo de servidor
+- Requerimientos especificos del negocio
+- Habilidades del personal tecnico de la empresa
+- Politicas de seguridad y normativas vigentes
+
+## 2.3 Particionado y sistemas de archivos
+
+Que es el particionado?
+
+- Es una segmentacion de un disco duro fisico el cual se divide en varias parte
+
+Tipos
+
+- Particiones primarias
+	- Instalascion de SO
+- Particiones Logica
+- Particiones extendidas
+
+Que es un sistema de archivos
+
+
+Tipos
+- FAT
+	- los sistemas File Allocation Table
+	- Son sistemas de archivos antiguos
+	- Compatibilidad Universal
+	- Facilidad de Uso
+	- Dispositivos Pequeños
+	- Sin registro de cambios
+	- Rendimiento puede verse afectado si tiene muchos archivos
+	- Falta de soporte 
+- FAT32
+	- Es un sistemas 
+	- Transferencia entre plataformas
+	- Sencillez
+	- Ideal para unidades pequeñas
+	- Tiene permisos muy altos para la manipulacion de archivos
+	- Fragmentacion
+	- Capacidad de participacion limitada a 16 gb antes de empezar las fallas de rendimiento
+- NFTS
+	- Token No Fungible
+	- Mayor seguridad
+	- Soporte para archivos grandes
+	- Fiabilidad
+	- Compatibilidad limitada
+	- No es compatible con dispositivos antiguos
+	- Puede fragmentarse 
+- Ext4 
+	- Foruth extended Filesystem
+		- Mas avazado que fat32
+		- Alto rendimiento y eficiencia
+		- Gran escalabilidad
+		- Retrocompatibilidad
+		- Falta de Funciones avanzadas
+		- Fragmentacion
+		- Soporte entre plataformas limitado
+		- Se considera solo para linux
+
+
+## Clase 2025-10-06
+
+### Instalacion de sistemas operativos
+
+Carateristicas de los SO para cervidores
+- Gestion de Recursos
+- Estabilidad y seguridad
+- Manejo de cargas
+
+Windows server y linux en sus multiples distribuciones dominan el mercado de SO para servidores
+
+Requisitos y preparacion previa
+- Es importante revidar el hardware del equipo
+- Tener en cuenta si se intalara sobre el hardware o en maquinas virtuales
+
+Intalacion Windows Server
+- Paso 1: preparar ISO o medios de instalacion
+- Paso 2: Configurar BIOS para el arracador sea la usb
+- Paso 3: Seleccion estadar del intalador
+- Paso 4: Particionado
+- Paso 5: Configurar la cuenta de adminitrador local y contraseña segura
+- Paso 6 Intalar roles y carateristicas
+- Paso 7 Actualizar windows update
+- Paso 8: Activar el firewall
+
+Ubuntu server
+- Paso 1: Iniciar medios de instalacion
+- Paso 2: Confirguracion de Red
+- Paso 5: Configurar cuenta de administrador local
+- Paso 6: Configurar roles y carateristicas
+- Paso 7: Actualizar controladores
+
+Diferencias Windows y linux
+
+- Linux posee mas seguirdad
+- Linux es de uso libre sin licencia
+- Windows server tiene una GUI
+- Windows puede llegar a ser mas comodo
+
 
 ---
 ## Glosario

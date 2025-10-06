@@ -216,3 +216,169 @@ hay varias tecnicas, una de ellas es la siguiente:
 
 1.3
 
+## Clase 2025-09-18
+
+unidad 2
+
+vimos la pelicula llamada codigo enigma con el fin de ver la importancia dle cifrado de datos
+
+## Clase 2025-09-23
+
+Una clase donde en base a la pelicula anterior que vimos, ahora estaremos conociendo diferentes tipos de cifrado de datos
+
+vimos los siguientes:
+
+### cifrado cesar
+
+que es reasignacion de letras en base a una clave
+
+abcdefghijklmnopqrstuvwxyz
+
+a cada uno se le asigna un numero y en base a la clave se recorre
+
+por ejemplo
+
+HOLA MUNDO 
+en cifrado cesar 3 seria -> KRÑD OXPGR
+
+### Polivio o Bifido
+
+#### Variante tipo 1
+
+Consiste en colocar expto la I en un recuadro de (5 x 5), ejemplo
+
+
+|x|1|2|3|4  |5|
+|-|-|-|-|---|-|
+|1|A|B|C|D  |E|
+|2|F|G|H|I/J|K|
+|3|L|M|N|O  |P|
+|4|Q|R|S|T  |U|
+|5|V|W|X|Y  |Z|
+
+Algo como
+
+`HELLO WORLD`  su equivalente seria `23 15 31 31 34 52 34 52 31 14`
+
+una condicion de este metodo de encriptacion es que de preferencia se deben usar palabras que no repitan letras
+
+#### Variante tipo 2
+
+Existe una variante de este metodo que se le conoce como variante, en este caso se toma una palabra clave que no repita letras, aunque para este caso obviaremos eso ultimo para que tomemos ejemplo, sera con `HELLO WORLD` la palabra ultilizada para el cifrado variante, pero vamos a adaptarla, encontes seria `HELO WRD`, ahora asignarle puestos nuevos a la tabla
+
+|x|1|2|3  |4|5|
+|-|-|-|---|-|-|
+|1|H|E|L  |O|W|
+|2|R|D|A  |B|C|
+|3|F|G|I/J|K|M|
+|4|N|P|Q  |S|T|
+|5|U|V  |X|Y|Z|
+
+Aqui la cosa cambia ahora el `HELLO WORLD` seria algo como -> `11 12 13 13 15 14 21 13 22`
+
+#### Variante tipo 3
+
+en este caso se toma la variante tipo 1 como base(Aunque tambien se puede tomar la variante tipo 2) y tomamos una palabra clave como por ejemplo `HELLO WORLD`, de preferencia algo que no repita letras, para este caso hay que transformar la palabra, seria `HELO WRD`, ahora tomamos esa palabra y la ciframos
+
+|x|1|2|3|4  |5|
+|-|-|-|-|---|-|
+|1|A|B|C|D  |E|
+|2|F|G|H|I/J|K|
+|3|L|M|N|O  |P|
+|4|Q|R|S|T  |U|
+|5|V|W|X|Y  |Z|
+
+seria algo como -> `23 15 31 34 52 42 14` 
+
+apartir de ese codigo lo juntamos y dividimos a la mitad, terminaria algo asi:
+
+`2315313`
+`4524214`
+
+ahora juntamos los numeros segun su indice en cada fila y el resultado seria:
+
+`24 35 12 54 32 11 34`
+
+sacamos cual seria el significado de esa clave y ese seria la clave final de cifrado, en este caso seria:
+
+`I P B Y M A O`
+
+Para esto terminamos con que la transformación completa seria
+1. `HELLO WORLD`
+2. `HELO WRD`
+3. `23 15 31 34 52 45 14`
+4. `2315313` - `4524214`
+5. `24 35 12 54 32 11 34`
+6. `I P B Y M A O`
+
+Nuestra tabla final seria esta:
+
+|x|1|2|3|4  |5|
+|-|-|-|-|---|-|
+|1|I|P|B|Y  |M|
+|2|A|O|C|D  |E|
+|3|F|G|H|J/K|L|
+|4|N|Q|R  |S|T|
+|5|U|V|W  |X|Z|
+
+un mensaje con esta tabla seria algo como:
+
+1. `AMIGO MIO`
+2. `21 51 11 32 22 52 11 22`
+
+### Cifrado Vigenere
+
+Se prupuso utilizar 2 afabetos alternando entre codificacion
+
+usa 26 simbolos del alfabeto, no se considera la ñ
+
+Se usa asi
+
+hay 2 columnas, la columna de arriba es el texto de entrada, y la columna de abajo es el texto de la plabra clave, la union de las coincidencias es el mensaje cifrado
+
+![[Cuadreo vigenere.png]]
+
+por ejemplo
+
+mensaje: Seguridad informatica
+clave: python
+
+primero hacemos las equivalencias y luego ciframos en base a la tabla
+
+|Palabra clave   |P|Y|T|H|O|N|P|Y|T|H|O|N|P|Y|T|H|O|N|P|Y|
+|----------------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Mensaje         |S|E|G|U|R|I|D|A|D|I|N|F|O|R|M|A|T|I|C|A|
+|Mensaje Cifrado |H|C|Z|B|F|V|S|Y|W|P|B|S|D|P|F|H|H|V|R|Y|
+
+---
+
+Que es la criptografia
+
+es la ciencia que estudia las tecnicas para proteger la informacion mediante la transformacion de los datos
+
+dentro de la criptografia para las claves de cifrado hay 2
+- Simetrica
+	- Palabra clave que usa la misma palabra para cifrar y decifrar que se llama AES
+- Asimetrica
+	- Aqui usan 2 diferentes palabras claves, una clave publica y una clave privada RSA
+
+Estelanografia
+- Ocultar Texto en una imagen, texto, audio y video
+
+diferencias
+
+- Criptografia: Oculta la informacio
+- Estelanografia: Oculta el contenido
+
+
+Certificados digitales
+- Son documentos electornicos que validan una entidad en internet validado por un organismo 
+
+Llave electronica
+- Mecanismo criptografico que asegura que un documento no ha sido alterado
+
+Documento electronico
+- Para correo electronico
+
+Equipo 5
+

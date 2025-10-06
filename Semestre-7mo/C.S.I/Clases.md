@@ -474,186 +474,173 @@ Presento:
 
 ---
 
+## Clase 2025-09-18
 
+Presento:
+- Mireya
+- America
 
+Temas
+- 2.2.3. Formas de encontrar y corregir defectos. 
+- 2.2.4. El costo de encontrar y corregir defectos. 
 
+2.2.3. Formas de encontrar y corregir defectos. 
 
+Metodo para encontrar errores
 
+- Revisiones manuales del codigo y documentacion
+- Pruebas unitarias
+- Pruebas de integracion
+- auditorias externas e internas
+- herramientas automaticas de analisis estatico y dinamico
 
+Mencionadas al aire
+- debuggers
+- herramientas de testing
+- control de versiones 
 
+Tecnicas para la correcion de defectos
 
+- Analisis exhaustivo de la causa raiz para entender su origen
+- Refactorizacion, reingenieria y procesos optmizados
+- realizar pruebas de validacion y verificacion
 
+Gestion y seguimiento de defecto o errores
 
+Es fundamentar registrar y monitorear cada defecto a traves de sistemas de control de incidencias, lo que permite documentacion mas limpia
 
+**2.2.4. El costo de encontrar y corregir defectos**
 
+Los costos de calidad agrupan todos los gastos incurridos para asegurar que un sistema o producto informatico cumple con los estandares de calidad definidos y las expectacticas del usuario
 
+Componentes
+- costos de prevencion
+- costos de evaluacion
+- costos de fallas internas y externas
 
+Variacion
 
+Dectectar y corregit defectos en las fases iniciales del desarrollo resulta significativamente menos costos en fases tempranas
 
+Impacto economico y operativo de los defectos
 
+Los defectos no corregidos a tiemo pueden generar retrasos en los poryectos, perdida de confianza, costoso legales y daños a la reputacion de la empresa
 
+Clasificacion
+- Prevencion
+	- capacitacion y desarrollo de personal
+	- Planificacion detallada de proyectos
+	- Diseño y arquitectura de software obtusos
+- Evaluacion
+	- Actividades de pruebas rigorosas
+	- Auditorias de codigos y revision de diseño
+	- Monitoreo y analisis de metricas de calidad
+- Fallas internas
+	- Correcion de codigo
+	- Desperdicio de recursos y tiempo de equipo
+	- demoras en el cornograma del proyecto
+	- analisis y depuracion del proyecto
+- Fallas externas
+	- Servicio de soporte tecnico postventa
+	- Costos por devolucion de clientes
+	- costos de garantias y compensacion
 
+La deteccion y correcion oportuna de defectos es fundamental para lograr una calidad de sistema
 
+presetacion actividad equipo
+- mireya
+- america
+- marisela
 
+## Clases 2025-09-25
 
+2.5
 
+Mtodos para obtener calidad en los sistemas de informacion
+- QMS = Sistemas de Gestion de Calidad
+- Gestion documental
+- Gestion de riesgos productiva
 
+Metricas Claves para medir la calidad
+- Tazas de defectos
+- Tiempo de correcion
+- Cumplimento de Requisitos
+- Satisfaccion del usuario
 
+Metodologias y estandares fundamentales
 
+1. ISO 9001:2015
+2. Modelos QA y QC
+3. Ciclo PDCA
+4. Metodologias Agiles
 
+Fiferencia Clave
 
+Aseguramiento  de Calidad(QA)
+- Enfoque preventivo
 
+2.6 Controlar la calidad en los sistemas de informacion
 
+- Inspeccion continua y pruebas automatizadas
+- Auditoria internas y externas
+- Gestion de defectos rigurosas
+- Capacitacion y mejora continua
 
+Software QMS
 
+-
+-
+-
+-
 
+Beneficios de obtener y controlar en SI
 
+- inimiza riesgos y costos
+- Mayor confiabilidad y seguridad
+- Aumenta Satisfaccion del usuario
+- Facilita cumplimiento normativo
 
 
+## Clase 02-Octubre
+Costo de la Calidad o CoC
 
+Es la suma de todos los costos relacionados con asegurr y mantener la calidad en sistemas de informacion
 
+Componentes del costo de la calidad
 
+- Costos de Buena calidad
+	- Prevencion
+	- Evaluacion
+- Costos de Mala Calidad
+	- Es cuando el sistema no cumple con los estandares deseados
+	- Fallos Internos
+	- Fallos Externos
 
+Importancia de Medir e Costo de la Calidad
 
+- Optimizacion de Recursos
+- Mejora de Satisfaccion
+- Eficiencia Operativa
+- Desiciones Estrategicas
 
+2.7.1 Calculo de Costo de la Calidad
 
+se divide en 4 secciones
 
+- Prevencion
+- Evaluacion
+- Fallos Externos
+- Fallos internos
 
+Calculo detallado: Cosotos de buena calidad
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Prvencion
+	- Capacitacion de TI
+- Evaluacion
+	- Pruebas de software y auditorias de seguridad
+	- Adquisicion y mantenimiento
+- Fallos Internos
+	- Tiempo y recursos emprleados en la correcion de errores y defectos
+- Fallos externos
+	- Costos de soporte tecnico y atencion al cliente por Incidencias y fallos en produccion
 

@@ -226,3 +226,60 @@ Algunas plataformas son:
 - adobe sensei
 
 la ia es una herramienta clave que empezaemos a usar mas y mas, asi que hay que integrar estas herramientas
+
+## Clases 2025-10-06
+
+Son sistemeas generados para poder administrar varias bases de datos
+
+estos sistemas surgen como una necesidad de controlar diferentes sistemas de Bases de datos
+
+Cada Base de datos o sistema local mantiene su operacion autonoma
+
+Pueden gestionarse con diferentes SGBD
+
+Manejan diferentes niveles de heterogeneridad
+
+Protocolos de comunicacion
+
+Heterogeneidad de representacion
+
+CODIFICACION DE CARACTERES 
+
+se debe gestonar la latencia
+
+tranparencia de ubicaion
+transparencia de heterogeneidad
+
+
+Integracion de esquemas
+
+Resolver conflictos de nombre y mapeos
+
+Procesamiento de consultas glbales
+
+Los sistemas locales no necesitan ser modificados
+
+Escalabilidad y escalabilidad
+
+Escalables y adaptbles
+
+Clasificacion
+
+Segun el grado de integracion
+- Sistema acoplado debilmente
+- Sistemas acoplados fuertemente
+Segun arquitectura
+- Mediador
+Basada en Sistema Global
+Local as view
+
+Segun el control y la cooperacion
+- sistemas cooperativos
+- Sistemas no cooperativos
+Segun el sistema de trnasaccion
+- algo
+- Sistemas sin soporte transacional
+Segu el tipo de datos relacionados
+- Sistemas Hetreogeneos
+- Ssitemas semanticos multibasse
+- 

@@ -28,3 +28,7 @@ la libreta con el formato anterior
 ## Clase 2025-09-09
 
 actividad de investigacion de hardware necesario 
+
+## Clase 2025-09-18
+
+Vamos a formalizar los requirimientos de lo que necesitamos para poder llevar acabo nuestro proyecto, por ejemplo que servidor se necesita para levantar una pagina web

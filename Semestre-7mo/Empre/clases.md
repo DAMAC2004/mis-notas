@@ -1,36 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Emprendedores
 
 **Profesor:** Josue Abner Suarez Aguilar
@@ -437,12 +404,136 @@ un proyecto siempre, siempre empezara perdiendo
 partir de eso se generan planes de finanziacion
 precios del valor de producto usual de 10 o 15
 
+- Introduccion
+- desarrollo
+- crecimiento
+- madurez
+- declive
+
 Valor añadido
 facilidad de acceso
 esquemado de precios
 costeo de precios
 rentabilidad
 
-Hacer estudio de mercado
+Hacer estudio de mercad
+1
 
+
+## Clase 2025-10-03
+
+Equipo 1
+
+6 temas
+
+
+
+Unidad 3 - Estudio Técnico
+
+3.1
+3.1.1
+3.1.2
+3.1.3
+3.1.4
+3.1.5
+
+3.1 Ingenieria Basica
+
+Componenetes
+- Establecer los lineamientos generales
+- Generar documentos Tecnicos
+- Definir la forma y dimencion de la obra
+	- Especificar el diseño, el marketing
+- Estimar costos y presupuestos
+	- Como se va interactuando con la empresa respecto a gastos y ventas
+- Evaluar la viabilidad y riesgos
+	- 
+- Servir de base para la ingenieria de detalle
+
+Faces Principales
+
+1. Toma de datos y determinacion de requerimientos
+	- Se recopila informacion, se identifican las necesidades del cliente y se defien las bases del diseño
+2. Elaboracion de documentos de ingenieria basica
+	- Se desarrollan los planos, especificaciones y listados de equipos necesarios para definir el proyecto
+
+3.1.1 Descripcion del producto
+
+Texto de marketing que sirve para informar al cliene y persudirlo para hacer la compra
+
+Para que sirve?
+- Informa al cliente
+- Aclara Dudas
+- Crea confianza
+- Destaca los beneficios
+- Generar Emocion
+
+Por que son importantes?
+
+- Entendimiento del valor
+	- Ayudan al clienta a entender el valor real y como el producto resuelve 
+- Mejora la conversion
+- Opimizacion SEO
+	- Ayuda a aumentar la visibilidad de productos en buscadores web
+
+3.1.2 Descripcion de procesos
+
+En este apartado se describe la secuencia de actividades que permiten transformar los recursos
+
+Etapas principales
+1. Entrada
+	1. Materias primarias
+2. Operacion de transformacion
+	1. Conjunto de actividades que cambian o agregan valor a los insumos
+3. Flujo de trabajo
+	1. Orden logico de las actividades
+4. Controles y verificacion
+	1. Revision de calidad
+5. Productos intermedios
+	1. Resultados parciales que aun no estan terminaos
+6. Salida
+
+Heramientas
+- Diagramas de bloques
+	- Es un diagrama que muestra las partes principales de un sistema y como se concectan
+- Diagrama de flujo
+	- Es un dibujo que muestra paso a paso como se hace un proceso o como funciona algo
+
+3.1.3 Determinacion y tamaño maximo del proyecto
+
+La capacidad de produccion de bienes o prestacion de servicios que el proyecto tendra en su vida util, durante la planificacion y eevaluacion
+
+Importancia de un tamaño optimo
+
+Aaegura la viabilidadm rentabilidad y sostenibilidad del proyecto a largo plazo
+
+Factores que definen la escala del proyecto
+- Se basa en un analisis integral de multiples variables
+	1. Tmaño del mercado
+		- Analisis de demanda actual y futura
+		- proyecciones de crecimiento
+		- segmentacion del mercado
+	2. Disponibilidad de insumos y recursos
+		- Materias primas
+		- Mano de obra calificada
+		- Suministros basicos
+	3. Tecnologias y procesos
+		- Capacidad estandar de la maquinaria
+		- Economias de escala
+		- Flexibilidad para crecer por etapas
+	4. Capacidad Financiera
+		* Inversion incial
+		* Fuentes de financiamiento
+		* Costos operativos
+
+Determinacion del tamaño maximo y optimo
+
+Tamaño maximo
+- La mayor capacidad de produccion posible considerando tolas las restricciones
+Proceso para determinar el tamaño optimo
+1. Identificar el factor limitante principal
+2. Evaluar escenarios
+3. Optimizacion de crecimeinto
+
+El tamaño optimo es el que maximiza la rentabilidad y el valor actual neto (VAN)
 
